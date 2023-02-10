@@ -1,2 +1,2 @@
 # DataStructure
-Data Structures in C
+Data Structures using C
